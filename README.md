@@ -28,7 +28,7 @@ circolare per catturare i frame desiderati. Il Frame catturato potrà essere sal
 ![camera](https://github.com/Andrisky/Riconoscimento-facciale/assets/46251425/72a7ad4a-e6a4-4a72-b8f4-0c02981201f8)
 
 # Fragment Profiles
-I frame salvati all’interno dell’applicazione sono visualizzati nel fragment Profiles mediante l’utilizzo di una RecyclerView. Ogni elemento della lista è cliccabile: il click produce l’apertura di una finestra di dialogo che consente la cancellazione del profilo previo inserimento del PIN.
+I frame salvati all’interno dell’applicazione sono visualizzati nel Fragment Profiles mediante l’utilizzo di una RecyclerView. Ogni elemento della lista è cliccabile: il click produce l’apertura di una finestra di dialogo che consente la cancellazione del profilo previo inserimento del PIN.
 
 ![profiles10](https://github.com/Andrisky/Riconoscimento-facciale/assets/46251425/7a74f557-5fa3-4b81-8bd6-928590e5ff45)
 
