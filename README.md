@@ -33,7 +33,7 @@ I frame salvati all’interno dell’applicazione sono visualizzati nel fragment
 ![profiles10](https://github.com/Andrisky/Riconoscimento-facciale/assets/46251425/7a74f557-5fa3-4b81-8bd6-928590e5ff45)
 
 # Ambiente simulato
-Per testare il riconoscimento facciale è stato realizzato un ambiente che permette di simulare lo sblocco di un dispositvo Androdid.
+Per testare il riconoscimento facciale è stato realizzato un ambiente che permette di simulare lo sblocco di un dispositvo Android.
 Per la realizzazione dell'ambiente simulato sono stati utilizzati tre Fragment, uno per il riconoscimento facciale, uno per l’inserimento del PIN (in caso il riconoscimento facciale fallisse) e l’ultimo per simulare la pagina iniziale di un dispositivo dopo essere stato sbloccato.
 
 ![ambiente](https://github.com/Andrisky/Riconoscimento-facciale/assets/46251425/e54e9921-a1b2-4ef9-aef6-69db76c84c78)
