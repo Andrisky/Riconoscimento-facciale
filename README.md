@@ -1,6 +1,6 @@
 # Riconoscimento-facciale
 
-Questo progetto è stato pensato e realizzato da Andrea Lo Russo per il corso di Sistemi Digitali M tenuto dal Professor Stefano MAttoccia e dal Professor Matteo Poggi presso l'Università Bologna.
+Questo progetto è stato pensato e realizzato da Andrea Lo Russo per il corso di Sistemi Digitali M tenuto dal Professor Stefano MAttoccia e dal Professor Matteo Poggi presso l'Università di Bologna.
 
 L’obiettivo del progetto proposto è integrare un sistema di riconoscimento facciale all’interno di un dispositivo mobile basato su Android. Il sistema implementato permette, sotto determinate condizioni, di inserire una o pi`u immagini contenenti un volto che saranno utilizzate
 come riferimento per il riconoscimento facciale. Il modello integrato nell'applicativo Android è stato implementato e addestrato da zero.
