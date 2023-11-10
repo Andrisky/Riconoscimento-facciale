@@ -21,7 +21,7 @@ Per avere accesso a tutte le funzionalità dell’applicativo è necessario impo
 
 Il Fragment dedicato alla gestione della fotocamera permette di catturare e salvare frame, che saranno
 in seguito utilizzati come immagini di riferimento per effettuare il riconoscimento facciale.  All’apertura,
-il Fragment si presenta in maniera essenziale, infatti `e presente soltanto una View per la visualizzazione
+il Fragment si presenta in maniera essenziale, infatti è presente soltanto una View per la visualizzazione
 dei frame acquisiti dalla fotocamera, che copre l’intera superficie del fragment, e da un Button di forma
 circolare per catturare i frame desiderati. Il Frame catturato potrà essere salvato se  il codice di sicurezza immesso è corretto e se all'interno del frame è presente un numero di volti pari ad 1.
 
